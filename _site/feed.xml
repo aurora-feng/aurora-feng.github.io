@@ -3,10 +3,10 @@
   <channel>
     <title>Portfolio By Aurora Feng</title>
     <description>我正在为Django项目编写一些单元测试,我想知道它是否可能(或必要的)测试我为其编写的一些装饰器.</description>
-    <link>http://localhost:4000/home//</link>
-    <atom:link href="http://localhost:4000/home//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Jun 2019 16:10:26 +0800</pubDate>
-    <lastBuildDate>Tue, 11 Jun 2019 16:10:26 +0800</lastBuildDate>
+    <link>http://localhost:4000/home/</link>
+    <atom:link href="http://localhost:4000/home/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 11 Jun 2019 16:12:27 +0800</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2019 16:12:27 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/18/project-1/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/17/project-2/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/16/project-3/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/15/project-4/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/15/project-6/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/14/project-5/</guid>
+        <link>http://localhost:4000/home/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/home/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>
