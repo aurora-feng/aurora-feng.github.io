@@ -1,11 +1,11 @@
 ---
-title: 比翼双飞
+title: 哇哦~ 情侣
 subtitle: 简笔画
 layout: default
 modal-id: 8
 date: 2019-06-28
-img: biyishuangfei.jpeg
-thumbnail: biyishuangfei-thumbnail.png
+img: couple.jpeg
+thumbnail: couple-thumbnail.png
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap

@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2019-06-28
 img: biyishuangfei.jpeg
-thumbnail: biyishuangfei-thumbnail.png
+thumbnail: biyishuangfei-thumbnail.jpeg
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap

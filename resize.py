@@ -14,6 +14,7 @@ def main(file_name, rotate):
             if rotate:
                 new_image = mario_image.transpose(rotate)
                 # new_image.save(path + file_name, mario_image.format)
+                # return 
             else:
                 new_image = mario_image
             mario_thub = resizeimage.resize_cover(new_image, thub_size)
