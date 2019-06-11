@@ -1,0 +1,15 @@
+---
+title: 睡觉的猫
+subtitle: 简笔画
+layout: default
+modal-id: 5
+date: 2019-06-28
+img: cat.jpeg
+thumbnail: cat-thumbnail.jpeg
+alt: image-alt
+project-date: June 2019
+client: Start Bootstrap
+category: Web Development
+description: 占位.
+
+---

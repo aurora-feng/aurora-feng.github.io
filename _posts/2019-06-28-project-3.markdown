@@ -1,0 +1,15 @@
+---
+title: 老鼠杰瑞
+subtitle: 简笔画
+layout: default
+modal-id: 3
+date: 2019-06-28
+img: jerry.jpeg
+thumbnail: jerry-thumbnail.jpeg
+alt: image-alt
+project-date: June 2019
+client: Start Bootstrap
+category: Web Development
+description: 占位.
+
+---

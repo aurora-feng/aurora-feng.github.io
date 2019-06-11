@@ -1,0 +1,15 @@
+---
+title: 大海
+subtitle: 油画
+layout: default
+modal-id: 7
+date: 2019-06-28
+img: youhua_sea.jpeg
+thumbnail: youhua_sea-thumbnail.jpeg
+alt: image-alt
+project-date: June 2019
+client: Start Bootstrap
+category: Web Development
+description: 占位描述.
+
+---
