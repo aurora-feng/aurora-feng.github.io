@@ -2,6 +2,7 @@ import sys
 from PIL import Image
 from resizeimage import resizeimage
 thub_size = (400, 289)
+# thub_size = (200, 200)
 reg_size = (600, 450)
 path = './img/portfolio/'
 
