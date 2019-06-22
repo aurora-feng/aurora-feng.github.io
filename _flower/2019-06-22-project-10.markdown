@@ -1,0 +1,15 @@
+---
+title: 4D的史努比
+subtitle: 水彩画
+layout: default
+modal-id: 10
+date: 2019-06-22
+img: 4d_painting.jpeg
+thumbnail: 4d_painting-thumbnail.jpeg
+alt: image-alt
+project-date: June 2019
+client: Start Bootstrap
+category: Web Development
+description: 占位描述.
+
+---

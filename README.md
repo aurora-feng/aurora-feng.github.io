@@ -21,3 +21,11 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+
+### Version 2: More and More pictures
+- classify images
+- auto generate image and its markdown
+-
+
+
+

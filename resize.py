@@ -8,8 +8,8 @@ path = './img/portfolio/'
 
 
 def main(file_name, rotate):
-    thumbnail_name = '{}-thumbnail.{}'.format(*file_name.split('.'))
-    reg_name = '{}-reg.{}'.format(*file_name.split('.'))
+    thumbnail_name = '{}-thumbnail.{}'.format(file_name.split('.')[0], file_name.split('.')[-1])
+    reg_name = '{}-reg.{}'.format(file_name.split('.')[0], file_name.split('.')[-1])
     with open(path + file_name, 'rb') as f_rb:
         with Image.open(f_rb) as mario_image:
             if rotate:
@@ -18,9 +18,9 @@ def main(file_name, rotate):
                 # return 
             else:
                 new_image = mario_image
-            mario_thub = resizeimage.resize_cover(new_image, thub_size)
+            mario_thub = resizeimage.resize_cover(new_image, thub_size, Image.ANTIALIAS)
             mario_thub.save(path + thumbnail_name, mario_image.format)
-            mario_reg = resizeimage.resize_cover(new_image, reg_size)
+            mario_reg = resizeimage.resize_cover(new_image, reg_size, Image.ANTIALIAS)
             mario_reg.save(path + reg_name, mario_image.format)
 
 
