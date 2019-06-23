@@ -1,15 +1,15 @@
 ---
-title: 超级马里奥
-subtitle: 简笔画
+title: 同学
+subtitle: 人物摄影
 layout: default
 modal-id: 2
 date: 2019-06-28
-img: mario.jpeg
-thumbnail: mario-thumbnail.jpeg
+img: human.jpg
+thumbnail: human-thumbnail.jpg
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap
-category: Web Development
+category: cate_human
 description: 占位.
 
 ---

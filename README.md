@@ -25,7 +25,8 @@ Images are in '/img/team/'
 ### Version 2: More and More pictures
 - classify images
 - auto generate image and its markdown
--
+- 知道 导航栏的容积
+- 图片分类展示
 
 
 

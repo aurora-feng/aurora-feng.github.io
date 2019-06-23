@@ -1,15 +1,15 @@
 ---
-title: 绿脸的程咬金
-subtitle: 简笔画
+title: 比翼双飞
+subtitle: 手绘
 layout: default
 modal-id: 4
 date: 2019-06-28
-img: chengjiaojin.jpeg
-thumbnail: chengjiaojin-thumbnail.jpeg
+img: biyishuangfei.jpeg
+thumbnail: biyishuangfei-thumbnail.jpeg
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap
-category: Web Development
+category: cate_painting
 description: 占位.
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: 老鼠杰瑞
-subtitle: 简笔画
+title: 猫咪
+subtitle: 生活照
 layout: default
 modal-id: 3
 date: 2019-06-28
-img: jerry.jpeg
-thumbnail: jerry-thumbnail.jpeg
+img: cat.jpeg
+thumbnail: cat-thumbnail.jpeg
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap
-category: Web Development
+category: cate_life
 description: 占位.
 
 ---
