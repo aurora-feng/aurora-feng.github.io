@@ -1,8 +1,7 @@
 # https://blog.webjeda.com/jekyll-filters/#simple-jekyll-filters
 import os
 
-template = """
----
+template = """---
 title: {title}
 layout: default
 modal-id: {order}

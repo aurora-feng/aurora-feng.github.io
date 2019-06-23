@@ -1,4 +1,3 @@
-
 ---
 title: 84471561128986.jpg
 layout: default
