@@ -1,12 +1,13 @@
+
 ---
-title: 猫咪
+title: 85841561206468.jpg
 layout: default
 modal-id: 3
 date: 2019-06-28
-img: cat.jpeg
-thumbnail: cat-thumbnail.jpeg
+img: 85841561206468.jpg
+thumbnail: 85841561206468-thumbnail.jpg
 alt: image-alt
-category: cate_life
-description: 占位.
+category: cate_flower
+description: .
 
 ---

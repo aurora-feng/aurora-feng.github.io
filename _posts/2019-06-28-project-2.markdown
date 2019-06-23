@@ -1,12 +1,13 @@
+
 ---
-title: 同学
+title: 47791557404472.jpg
 layout: default
 modal-id: 2
 date: 2019-06-28
-img: human.jpg
-thumbnail: human-thumbnail.jpg
+img: 47791557404472.jpg
+thumbnail: 47791557404472-thumbnail.jpg
 alt: image-alt
-category: cate_human
-description: 占位.
+category: cate_flower
+description: .
 
 ---

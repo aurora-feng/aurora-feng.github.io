@@ -1,10 +1,11 @@
+
 ---
-title: 油画大海
+title: 85821561206461.jpg
 layout: default
 modal-id: 1
 date: 2019-06-28
-img: youhua_sea.jpeg
-thumbnail: youhua_sea-thumbnail.jpeg
+img: 85821561206461.jpg
+thumbnail: 85821561206461-thumbnail.jpg
 alt: image-alt
 category: cate_flower
 description: .

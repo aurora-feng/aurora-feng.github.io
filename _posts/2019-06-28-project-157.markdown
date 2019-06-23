@@ -1,0 +1,13 @@
+
+---
+title: 86061561206631.jpg
+layout: default
+modal-id: 157
+date: 2019-06-28
+img: 86061561206631.jpg
+thumbnail: 86061561206631-thumbnail.jpg
+alt: image-alt
+category: cate_painting
+description: .
+
+---

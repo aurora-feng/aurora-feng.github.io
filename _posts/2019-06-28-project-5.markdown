@@ -1,12 +1,13 @@
+
 ---
-title: 马里奥
+title: 85861561206470.jpg
 layout: default
 modal-id: 5
 date: 2019-06-28
-img: mario.jpeg
-thumbnail: mario-thumbnail.jpeg
+img: 85861561206470.jpg
+thumbnail: 85861561206470-thumbnail.jpg
 alt: image-alt
-category: cate_view
-description: 占位.
+category: cate_flower
+description: .
 
 ---

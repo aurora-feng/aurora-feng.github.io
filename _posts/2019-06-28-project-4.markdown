@@ -1,12 +1,13 @@
+
 ---
-title: 比翼双飞
+title: 86481561206791.jpg
 layout: default
 modal-id: 4
 date: 2019-06-28
-img: biyishuangfei.jpeg
-thumbnail: biyishuangfei-thumbnail.jpeg
+img: 86481561206791.jpg
+thumbnail: 86481561206791-thumbnail.jpg
 alt: image-alt
-category: cate_painting
-description: 占位.
+category: cate_flower
+description: .
 
 ---
