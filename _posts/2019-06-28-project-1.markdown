@@ -1,15 +1,12 @@
 ---
 title: 油画大海
-subtitle: 花艺照
 layout: default
 modal-id: 1
 date: 2019-06-28
 img: youhua_sea.jpeg
 thumbnail: youhua_sea-thumbnail.jpeg
 alt: image-alt
-project-date: June 2019
-client: Start Bootstrap
 category: cate_flower
-description: 占位.
+description: .
 
 ---

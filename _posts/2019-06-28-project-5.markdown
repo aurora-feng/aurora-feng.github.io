@@ -1,14 +1,11 @@
 ---
 title: 马里奥
-subtitle: 风景摄影
 layout: default
 modal-id: 5
 date: 2019-06-28
 img: mario.jpeg
 thumbnail: mario-thumbnail.jpeg
 alt: image-alt
-project-date: June 2019
-client: Start Bootstrap
 category: cate_view
 description: 占位.
 
